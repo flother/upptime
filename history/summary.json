@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 325,
-    "timeWeek": 325,
-    "timeMonth": 325,
-    "timeYear": 325,
+    "time": 326,
+    "timeDay": 326,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://www.northatlanticradio.com",
     "icon": "https://favicons.githubusercontent.com/www.northatlanticradio.com",
     "slug": "north-atlantic-radio",
-    "status": "down",
-    "uptime": "9.82%",
-    "uptimeDay": "9.82%",
-    "uptimeWeek": "9.82%",
-    "uptimeMonth": "9.82%",
-    "uptimeYear": "9.82%",
-    "time": 570,
-    "timeDay": 570,
-    "timeWeek": 570,
-    "timeMonth": 570,
-    "timeYear": 570,
+    "status": "degraded",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 971,
+    "timeDay": 971,
+    "timeWeek": 971,
+    "timeMonth": 971,
+    "timeYear": 971,
     "dailyMinutesDown": {
-      "2020-12-19": 0
+      "2020-12-19": 594
     }
   }
 ]
