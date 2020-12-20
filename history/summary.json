@@ -22,19 +22,19 @@
     "url": "https://www.northatlanticradio.com",
     "icon": "https://favicons.githubusercontent.com/www.northatlanticradio.com",
     "slug": "north-atlantic-radio",
-    "status": "down",
+    "status": "degraded",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 772,
-    "timeDay": 772,
-    "timeWeek": 772,
-    "timeMonth": 772,
-    "timeYear": 772,
+    "time": 823,
+    "timeDay": 823,
+    "timeWeek": 823,
+    "timeMonth": 823,
+    "timeYear": 823,
     "dailyMinutesDown": {
-      "2020-12-20": 10,
+      "2020-12-20": 159,
       "2020-12-19": 629
     }
   }
