@@ -11,6 +11,7 @@ sites:
     url: https://www.northatlanticradio.com
     expectedStatusCodes:
       - 301
+    maxRedirects: 0
     maxResponseTime: 1000
 assignees:
   - flother
