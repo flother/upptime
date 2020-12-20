@@ -1,7 +1,7 @@
 url: https://www.northatlanticradio.com  
-status: degraded
+status: down
 code: 200
-responseTime: 1024
-lastUpdated: 2020-12-20T02:38:47.951Z
+responseTime: 177
+lastUpdated: 2020-12-20T02:57:21.315Z
 startTime: Sat Dec 19 2020 13:30:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
